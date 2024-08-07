@@ -13,5 +13,5 @@
 ![Docker](https://img.shields.io/badge/Docker-20.10.24-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-21-007396?style=for-the-badge&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-1.72.0-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
