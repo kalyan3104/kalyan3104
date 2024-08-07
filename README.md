@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/username/repo)](https://goreportcard.com/report/github.com/username/repo)
+![Node.js](https://img.shields.io/badge/Node.js-14.x-brightgreen)
