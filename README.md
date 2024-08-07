@@ -21,3 +21,9 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+
+![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyan3104&show_icons=true&theme=radical)
