@@ -11,7 +11,7 @@
 ![gRPC](https://img.shields.io/badge/gRPC-7F4C8B?style=for-the-badge&logo=grpc&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-supported-4A90E2?style=for-the-badge&logo=websockets&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-supported-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6.0-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
