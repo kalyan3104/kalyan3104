@@ -36,7 +36,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
- p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyan3104&show_icons=true&locale=en&layout=compact&theme=radical" alt="kalyan3104" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyan3104&show_icons=true&locale=en&layout=compact&theme=radical" alt="kalyan3104" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyan3104&show_icons=true&locale=en&theme=radical" alt="kalyan3104" /></p>
 
